@@ -1,0 +1,3 @@
+Programming is fun.
+Java is a popular programming language.
+Streams are a powerful feature in Java.
